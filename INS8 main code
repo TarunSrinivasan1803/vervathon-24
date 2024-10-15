@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Content - INS8</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>WELCOME TO INS8 </h1>
+        <nav>
+            <ul>
+                <li><a href="#physical-education">Physical Education</a></li>
+                <li><a href="#mental-health">Mental Health</a></li>
+                <li><a href="#life-skills">Life Skills</a></li>
+                <li><a href="#nutrition">Nutrition</a></li>
+                <li><a href="#financial-knowledge">Financial Knowledge</a></li>
+                <li><a href="#law">law</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+          
+        <section id="physical-education">
+            <h2>Physical Education</h2>
+            <p>Explore exercises, sports, and fitness tips to enhance your physical well-being combined with the ability to be fit and healthy.</p>
+                    <section id="cardovascular-system-improvement">
+                        <h3>Cardiovascular System imporvement</h3>
+                        <p>improve your cardiovascular system, by indulging in workouts that challenge your physical abilitiy.</p>
+                    <a href="https://www.example.com" target="_blank">Click here to chat with our fitbot about Cardiovascular system and improvement </a>
+                    </section>
+                    <section id="physical strength">
+                        <h3>Physical strengh</h3>
+                        <p>increase your physical strenght and and muscle hypertrophy.</p>
+                    <a href="https://www.example.com" target="_blank">Click here to chat with our fitbot about Physical strenth </a>
+                    </section>
+                    <section id="flexibility">
+                        <h3>Flexibility</h3>
+                        <p>improve your physical flexibility</p>
+                    <a href="https://www.example.com" target="_blank">Click here to chat with our fitbot regarding flexiblity</a>
+                    </section>
+                <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20non/pe.html" target="_blank">Click here to chat with our fitbot about physical fittness </a>
+        </section>
+        
+        <section id="mental-health">
+            <h2>Mental Health</h2>
+            <p>Learn about mindfulness, stress management, and mental well being along with the methodologies to cope up with dipression and other mental ailments.</p>
+               <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20int/mentalheal.html" target="_blank">Click here to chat with our fitbot about mental health </a>
+        </section>
+        
+        <section id="life-skills">
+            <h2>Life Skills</h2>
+            <p>Develop essential skills for everyday life, including communication, problem-solving, critical thinking, leadership qualities..</p>
+               <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20non/life%20skills.html" target="_blank">Click here to chat with our chatbot about life skills </a>
+        </section>
+        
+        <section id="nutrition">
+            <h2>Nutrition</h2>
+            <p>Understand the principles of healthy eating and nutrition for a balanced and healthy life.</p>
+              <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20non/nut.html" target="_blank">Click here to chat with our chatbot about nutrition </a>
+        </section>
+        
+        <section id="financial-knowledge">
+            <h2>Financial Knowledge</h2>
+            <p>Gain insights into budgeting, saving, investing, and managing your finances effectively.</p>
+              <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20non/fin.html" target="_blank">Click here to chat with our finbot about financial knowlege </a>
+        </section>
+
+        <section id="law and rights of citizens">
+            <h2>law and rights of citizens</h2>
+            <p>learn the essential knowledge regarding the rules and regulations of our nation to become a better citizen.</p>
+              <a href="file:///C:/Users/student/Pictures/hackathon/ins8%20non/law.html" target="_blank">Click here to chat with our fitbot about law and rights of citizens </a>
+        </section>>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 ins8. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
